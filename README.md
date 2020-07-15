@@ -2,7 +2,7 @@
 
 <!--
 **VictorYMH/VictorYMH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I work at SSW https://www.ssw.com.au/people/victor-yu
@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Docker and K8s (or Google might be better choice 🤣)
 - 📫 How to reach me: ymhvic@gmail.com
 - 😄 Pronouns: He/him
--->
